@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sakthrian
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me : sakthrian.tpy@gmail.com
 
